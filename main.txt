@@ -1,2 +1,3 @@
-Test Dosyasıdır.1
+
 Test Dosyasıdır.2 Güncellendi
+Test Dosyasdır.3 eklendi ve test dosyası 1 silinmiştir.
